@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Liam-rng
 - 👀 I’m interested in Fullstack Web Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently working on The Odin Project!
 - 💞️ I’m looking to collaborate on HTML & CSS
 - 📫 How to reach me ...
 
